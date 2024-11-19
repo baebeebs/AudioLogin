@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358239887569",
+    "project_id": "audiologin-951fa",
+    "storage_bucket": "audiologin-951fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358239887569:android:389abe02fc2eab237565f0",
+        "android_client_info": {
+          "package_name": "com.example.audiologin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkqSdBTOOO8O39kz_fT-h8mCC7wKdTIEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
